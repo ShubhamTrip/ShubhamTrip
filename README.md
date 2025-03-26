@@ -1,6 +1,6 @@
 # 🚀 Shubham Tripathi | Backend Engineer | Cloud Services | Devops
 
-Hey there! 👋 Welcome to my GitHub. I'm **Shubham Tripathi**, a passionate **Golang Backend Developer** 🐹 with expertise in **Cloud Computing, Devops, and Full-Stack Development**.  
+Hey there! 👋 Welcome to my GitHub. I'm **Shubham Tripathi**, a passionate **Software Engineer** 🐹 with expertise in **Cloud Computing, Devops, and Full-Stack Development**.  
 
 🔹 Currently on a study break.
 🔹 Freelancing at **Mesh Developers**, creating web apps with **Flutter, AWS, and Node.js**.  
