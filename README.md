@@ -35,7 +35,7 @@ Hey there! 👋 Welcome to my GitHub. I'm **Shubham Tripathi**, a passionate **S
 
 ## 📈 GitHub Stats & Commit Streak  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamTrip&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+![GitHub Streak](https://camo.githubusercontent.com/117cf9f3f5f7412aa55bf3b17953941508816a6e45e153b38d5be280f12f76c1/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d4b617374726f564b6972616e267468656d653d7261646963616c)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamTrip&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
